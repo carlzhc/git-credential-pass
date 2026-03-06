@@ -1,0 +1,2 @@
+# git-credential-pass
+A git credential helper interfacing with pass, the standard unix password manager.
