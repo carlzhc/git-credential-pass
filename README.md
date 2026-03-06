@@ -30,7 +30,7 @@ If you use this setup for remote work via SSH, also consider the alternative of 
 
 ## Installation
 
-Place the script [git-credential-pass] to anywhere in our PATH.
+Place the script [git-credential-pass] to anywhere in your PATH.
 
 ```sh
 sudo install -m 755 git-credential-pass /usr/local/bin/
